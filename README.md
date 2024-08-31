@@ -10,4 +10,4 @@ Example: Imagine you're scrolling through Instagram. Throttling is used to contr
 
 Debounce: It makes sure that the function only runs after a certain amount of time has passed since the last time it was triggered. If the event happens again before that time is up, the timer resets. This is good for handling things like typing in a search box, where you don't want the function to run every time a key is pressed.
 
-Example: When i stop typing in search box after 1000 second show my result 
+Example: When i stop typing in search box after 1000 milliseconds show my result 
